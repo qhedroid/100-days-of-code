@@ -1,23 +1,20 @@
 # 100 Days Of Code - Log
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: 8th September 2022, Thursday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I've started a video watching BroCode, reminded myself about adding images, hyperlinks, formatting and audio files.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Having done HTML in university, I feel rusty and I'm looking forward to going in more depth and tackling certain aspects.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [HTML & CSS tutorial for beginners 🌎](https://www.youtube.com/playlist?list=PLZPZq0r_RZOPoNttk9beDhO_Bu5DA-xwP)
+
+
+### Day 2: 9th September 2022, Friday
+
+**Today's Progress**: I have finished the whole BroCode HTML beginner tutorial. Forms, videos, buttons, iframes and more
+
+**Thoughts** Hoping to shift to freecode camp and train on what I have picked up along the way.
+
+**Link(s) to work**
+1. [HTML & CSS tutorial for beginners 🌎](https://www.youtube.com/playlist?list=PLZPZq0r_RZOPoNttk9beDhO_Bu5DA-xwP)
