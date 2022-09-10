@@ -18,3 +18,13 @@
 
 **Link(s) to work**
 1. [HTML & CSS tutorial for beginners 🌎](https://www.youtube.com/playlist?list=PLZPZq0r_RZOPoNttk9beDhO_Bu5DA-xwP)
+
+
+### Day 3: 10th September 2022, Saturday
+
+**Today's Progress**: I have started the first task on freecodecamp, this reiterated everything I learnt in the last two days. We built a cat website.
+
+**Thoughts** we're about to touch CSS now, will go back to BroCode, any projects to help practice basic css and HTMl would help!
+
+**Link(s) to work**
+1. [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
