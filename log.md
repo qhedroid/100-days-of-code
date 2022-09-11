@@ -28,3 +28,13 @@
 
 **Link(s) to work**
 1. [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+
+
+### Day 4: 11th September 2022, Sunday
+
+**Today's Progress**: I have started BroCode CSS playlist, this started teaching me about styling.
+
+**Thoughts** Today I don't feel as inspired, my progress has been slow and I'm not as proefficient today. Hopefully tomorrow is better.
+
+**Link(s) to work**
+1. [CSS tutorial for beginners 🎨](https://www.youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
