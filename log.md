@@ -38,3 +38,13 @@
 
 **Link(s) to work**
 1. [CSS tutorial for beginners 🎨](https://www.youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
+
+
+### Day 5: 12th September 2022, Sunday
+
+**Today's Progress**: I have covered fonts, backgrounds, floats and more. BroCode Playlist Finished 
+
+**Thoughts** Today I did not make a TikTok showcasing my progress, so this will be my point of reference but I hope to move to freecodecamp to practice now.
+
+**Link(s) to work**
+1. [CSS tutorial for beginners 🎨](https://www.youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
