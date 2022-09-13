@@ -40,7 +40,7 @@
 1. [CSS tutorial for beginners 🎨](https://www.youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
 
 
-### Day 5: 12th September 2022, Sunday
+### Day 5: 12th September 2022, Monday
 
 **Today's Progress**: I have covered fonts, backgrounds, floats and more. BroCode Playlist Finished 
 
@@ -48,3 +48,13 @@
 
 **Link(s) to work**
 1. [CSS tutorial for beginners 🎨](https://www.youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
+
+
+### Day 6: 13th September 2022, Tuesday
+
+**Today's Progress**: I have started FreeCodingCamp CSS tutorial to make a coffee shop menu 
+
+**Thoughts** Today was alot more enjoyable, seeing HTML and CSS together forming into a website is great.
+
+**Link(s) to work**
+1. [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
