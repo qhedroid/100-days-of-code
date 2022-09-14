@@ -58,3 +58,13 @@
 
 **Link(s) to work**
 1. [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
+
+
+### Day 7: 14th September 2022, Wednesday
+
+**Today's Progress**: I have finished FreeCodingCamp CSS tutorial to make a coffee shop menu. 
+
+**Thoughts** It's been one week, and I feel acomplished, I can't wait to continue more and get another week done!
+
+**Link(s) to work**
+1. [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
