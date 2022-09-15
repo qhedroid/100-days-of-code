@@ -68,3 +68,13 @@
 
 **Link(s) to work**
 1. [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
+
+
+### Day 8: 15th September 2022, Thursday
+
+**Today's Progress**: I have finished FreeCodingCamp CSS tutorial to learn more about colours and the use of CSS colors 
+
+**Thoughts** I am feeling motivated and can slowly see my skills being more competent, need to use guides less and pickup from my memory.
+
+**Link(s) to work**
+1. [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers)
