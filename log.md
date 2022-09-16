@@ -78,3 +78,13 @@
 
 **Link(s) to work**
 1. [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers)
+
+
+### Day 9: 16th September 2022, Friday
+
+**Today's Progress**: I have began FreeCodingCamp HTML Form settings to reiterate the idea of forms 
+
+**Thoughts** I am feeling somewhat exhausted, maybe after day 10 I take a one day break to refresh myself.
+
+**Link(s) to work**
+1. [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-31)
